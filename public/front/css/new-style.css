@@ -756,6 +756,32 @@ textarea.form-control {
         width: 72.7%;
         height: 170px;
     }
+	
+	.img_larg .item img {
+		height: 200px;
+	}
+	
+	.img_small {   
+		height: 70px;
+	}	
+	
+	.img_small li {
+		width: 23% !important;
+		height: 60px !important;   
+	}
+	
+	.img_small {   
+		bottom: -75px;
+	}
+	
+	.option_coaches span{
+		padding: 10px 12px;
+	}
+	
+	.tab_coach .nav-tabs>li {   
+		width: 50%;   
+	}
+	
 }
 
 
