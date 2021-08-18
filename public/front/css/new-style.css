@@ -745,7 +745,37 @@ textarea.form-control {
     margin: 0 0 30px 0;
 }
 
+.press_ok{
+	direction: rtl;
+    text-align: right;
+}
 
+.cont_perss{
+	padding:30px;
+	text-align:right;
+	direction:rtl;
+}
+
+.share_cv{
+	display: block;
+    float: right;
+    border: 2px solid #2b3990;
+    margin: 30px 0 0 0;
+    padding: 15px;
+    border-radius: 10px;
+    background: #2b3990;
+    color: #fff;
+}
+
+.share_cv i{
+	    font-size: 22px;
+    float: left;
+    margin: -1px 10px 0 0;
+}
+
+.share_cv:hover{
+	color:#fff;
+}
 
 @media screen and (max-width:767px){
     .home_screen {
